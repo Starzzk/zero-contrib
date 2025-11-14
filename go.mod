@@ -1,4 +1,4 @@
-module github.com/zeromicro/zero-contrib
+module github.com/Starzzk/zero-contrib
 
 go 1.23
 
